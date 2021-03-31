@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhou Jingwei</h1>
 
--  I used to be an intern in `Baidu` and `ByteDance`
+-  I used to be an intern in `ByteDance`,`JingDong` and `MobVista`
 
 <div>
 <div>
