@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhou Jingwei</h1>
 
--  Interested in Storage and Distributed. 
--  Try to learn Compiler
--  Try to be an interesting guy.
--  Used to be an backend intern in `ByteDance`,`JingDong` and `MobVista`
+-  Interested in Storage、 Distributed and Database. 
+-  Skilled in C++/Rust/Golang/Java
 
 <div>
 <div>
