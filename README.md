@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhou Jingwei</h1>
 
--  Interested in Storage、 Distributed and Database. 
+-  Interested in **Storage**、**Distributed System** and **Database**. 
 -  Skilled in C++/Rust/Golang/Java
 
 <div>
